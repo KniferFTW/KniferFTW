@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Cryptic](https://github.com/CrypticDevelopment)** with an excellent team of developers!
 
-- ⚡ I’m currently on and off learning **C#, CPP, JS, PHP, React, Elixir, Go and Vue**
+- ⚡ I’m currently on and off learning **C#, C++, JS, PHP, React, Elixir, Go and Vue**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/KniferFTW](https://github.com/KniferFTW)
 
