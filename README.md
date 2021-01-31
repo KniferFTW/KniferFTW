@@ -5,7 +5,7 @@
 
 - ⚡ I’m currently on and off learning **C#, C++, JS, PHP, React, Elixir, Go and Vue**
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/KniferFTW](https://github.com/KniferFTW)
+- 👨‍💻 All of my personal projects are available at [github.com/KniferFTW?tab=repositories](https://github.com/KniferFTW?tab=repositories)
 
 - 📫 You can reach me on Discord: **Jesse#4788**
 
