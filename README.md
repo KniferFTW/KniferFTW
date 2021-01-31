@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jesse!</h1>
 <h3 align="center">A dev hailing from Tasmania, Australia.</h3>
 
-- 🔭 I’m currently working on **[Cryptic](https://github.com/CrypticDevelopment)** with an excellent team of developers!
+- 🔭 I’m currently working on **[Cryptic](https://github.com/CrypticDevelopment), and a game in UE4**!
 
 - ⚡ I’m currently on and off learning **C#, C++, JS, PHP, React, Elixir, Go and Vue**
 
