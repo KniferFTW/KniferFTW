@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jesse!</h1>
 <h3 align="center">A dev hailing from Tasmania, Australia.</h3>
 
-- 🔭 I’m currently working on **[Pingy](https://github.com/PingyBot)**, and a game in UE4 with [Peter](https://github.com/LittlePetey)!
+- 🔭 I’m currently working on **[Tsuki](https://github.com/as1de/Tsuki)**, and a game in UE4 with [Peter](https://github.com/LittlePetey)!
 
 - ⚡ I’m currently on and off learning **C#, C++, JS, PHP, React, Elixir, Go and Vue**
 
